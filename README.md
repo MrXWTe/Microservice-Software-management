@@ -6,5 +6,5 @@ Original project address：https://github.com/MrXWTe/Software-Version-Management
 
 The preliminary structure of the project is as follows
 
-![Software management system service split](https://github.com/MrXWTe/Microservice-Software-management/blob/master/resource/Software management system service split.png)
+![Software management system service split](https://github.com/MrXWTe/Microservice-Software-management/blob/master/resource/image1.png)
 
