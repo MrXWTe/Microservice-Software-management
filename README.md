@@ -6,4 +6,4 @@ Original project address：https://github.com/MrXWTe/Software-Version-Management
 
 The preliminary structure of the project is as follows
 
-![软件管理系统服务拆分](E:\IdeaProjects\SoftwareManagement\resource\软件管理系统服务拆分.png)
+![Software management system service split](resource\Software management system service split.png)
