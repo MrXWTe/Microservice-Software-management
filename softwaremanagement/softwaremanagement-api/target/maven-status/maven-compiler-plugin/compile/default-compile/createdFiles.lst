@@ -1,2 +1,2 @@
-entities\Admin.class
-entities\User.class
+com\gz\softwaremanagement\entities\Admin.class
+com\gz\softwaremanagement\entities\User.class

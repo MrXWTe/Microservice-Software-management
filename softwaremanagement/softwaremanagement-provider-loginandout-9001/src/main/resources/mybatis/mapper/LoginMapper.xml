@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gz.softwaremanagement.dao.LoginDao">
+
+    <select id="selectAdminByEmailAndPassword" resultType="com.gz.softwaremanagement.entities.Admin">
+        select * from tb_admin
+        where admin_email=#{param1} and admin_password=#{param2}
+    </select>
+
+</mapper>

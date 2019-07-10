@@ -17,6 +17,7 @@
         <module>softwaremanagement-provider-betasoftwareservice-9011</module>
         <module>softwaremanagement-provider-releasesoftwareservice-9012</module>
         <module>softwaremanagement-provider-encryption-9021</module>
+        <module>softwaremanagement-consumer-80</module>
     </modules>
 
     <properties>
